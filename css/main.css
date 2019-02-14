@@ -32,6 +32,7 @@ a {
 }
 .service-desc h3 a {
     color: #062033;
+	text-decoration: underline;
 }
 
 
